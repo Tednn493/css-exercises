@@ -23,6 +23,9 @@ img {
   margin: 32px;
   gap: 52px;
 }
+.infobox{
+  max-width:  200px;
+}
 
 body{
   text-align: center;
